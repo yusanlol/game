@@ -1,5 +1,4 @@
 # game
-/*
 
 Our goal was to make a hangman-type guessing game for states in the U.S., with a maximum number of guesses being 15.
 
@@ -19,11 +18,9 @@ To finish the program, we set it to terminate and display a congratulatory messa
 
 If the guesses are all used up (when attempts == max_attempts), the program terminates and displays a failure message and the un-encrypted word to the user.
 
-We used the include statements <iostream>, <string>, <cstdlib>, and <ctime> for this project.
+We used the include statements iostream, string, cstdlib, and ctime for this project.
 
 
 Abhi and Alec
 Computer Science 110
 May 2018
-
-*/
