@@ -21,6 +21,8 @@ If the guesses are all used up (when attempts == max_attempts), the program term
 We used the include statements iostream, string, cstdlib, and ctime for this project.
 
 
-Abhi and Alec
+Alec Chen and Abhishek Singh
+
 Computer Science 110
+
 May 2018
