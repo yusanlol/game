@@ -1,4 +1,6 @@
 # game
+/*
+
 Our goal was to make a hangman-type guessing game for states in the U.S., with a maximum number of guesses being 15.
 
 The function letterFill serves these purposes:
@@ -23,3 +25,5 @@ We used the include statements <iostream>, <string>, <cstdlib>, and <ctime> for 
 Abhi and Alec
 Computer Science 110
 May 2018
+
+*/
